@@ -3,8 +3,9 @@ title: "Applications of Statistics In Research Trials"
 author: "Eric Odongo"
 date: "2025-02-25"
 output:
-  slidy_presentation: default
+  beamer_presentation: default
   ioslides_presentation: default
+  slidy_presentation: default
 ---
 
 **Learning outcomes**
@@ -41,6 +42,8 @@ Clinical trials are experiments designed to evaluate safety and efficacy of huma
 
 - Phase 3 - Compares new treatment to the standard treatment. It involves more than 100 patients. The goal is to determine long term safety and efficacy.
 
+##
+
 - Phase 4 / Post marketing/RWE - This is usually done once the drug is in the market and available for use. The purpose is to determine long term effects.
 
 Why clinical trials? - the only known scientific method for evaluating safety and efficacy of a new drug compound.
@@ -75,7 +78,7 @@ Describe how missing data will be handled - should they be dropped or should imp
 
 Emphasize on both the primary and secondary objectives of the study and how these will be assessed or measured.
 
-
+## 
 **Data analysis and interpretation**
 
 Do a deeper analysis of the data to discover patterns and uncover hidden information. Example analysis would be meta-analysis, PK modeling etc
@@ -102,6 +105,7 @@ Effectively communicating the research findings to all stakeholders involved, e.
 
 - Visualizations skills are also necessary. This is both science and art. We need to know how to visualize the kind of data we have at hand.
 
+##
 **Applications to various domains**
 
 - Enhanced productivity
