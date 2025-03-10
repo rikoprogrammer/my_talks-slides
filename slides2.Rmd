@@ -1,0 +1,120 @@
+---
+title: "Applications of Statistics In Research Trials"
+author: "Eric Odongo"
+date: "2025-02-25"
+output:
+  slidy_presentation: default
+  ioslides_presentation: default
+---
+
+**Learning outcomes**
+
+1. How Data Analytics enhances trial accuracy and efficiency.
+
+2. Tools and Techniques for integrating Data Analytics into research processes.
+
+3. Applications of Analytics in various research trials such as in Clinical, Agricultural and Technological trials.
+
+4. The Future of Analytics in Research Innovation.
+
+## Introduction
+
+**Definition of key terms**
+
+- Data analytics - The science of analyzing raw data to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into efficient processes and algorithms that work over raw data for human consumption.
+
+- Clinical research/clinical trials - is the science of conducting experiments with the main objective of evaluating safety and efficacy of drug compounds in humans.
+
+Daniel Chap 1 : 12 - 15
+
+## A brief introduction to clinical trials/research
+
+Clinical trials are experiments designed to evaluate safety and efficacy of human medicines, medical devices, and other interventions like chemotherapy etc.
+
+**Phases of clinical trials**
+
+- Phase 0 / Pre-clinical - This is done mostly in animals to examine toxicity levels of a drug compound. They are also used to establish a safe starting dose in humans
+
+- Phase 1 - Mostly involves few healthy volunteers. The purpose to determine optimal dosage and examine PK/PD profiles.
+
+- Phase 2 - Mostly done in the patient population (roughly less than 100 patients). The goal is to determine safety and efficacy of the drug.
+
+- Phase 3 - Compares new treatment to the standard treatment. It involves more than 100 patients. The goal is to determine long term safety and efficacy.
+
+- Phase 4 / Post marketing/RWE - This is usually done once the drug is in the market and available for use. The purpose is to determine long term effects.
+
+Why clinical trials? - the only known scientific method for evaluating safety and efficacy of a new drug compound.
+
+Epidemiological studies can also be used but they are not very common, because they don't allow the researcher to intervene with a treatment, they simply observe a population over long period of time.
+
+## The process of conducting a clinical trial - overview
+
+Data collection process -  eCRF design, collect raw data, standardize data by reorganizing it per topic of interest eg adverse events (SDTM domains).
+
+Creation of analysis ready data sets incorporating complex logic and derivations (ADAM domains).
+
+Creation of final outputs in form of tables, listings and figures. These are submitted to regulatory bodies and clients for review.
+
+Once the review is successful and the product under study is approved, the product is then made available to the market.
+
+Post surveillance to assess long term safety and efficacy.
+
+## The role of statistics/data analytics in the life-cycle of clinical research/Agricultural research/Technology
+
+**Study design**
+
+Comes up with a study design that is appropriate for answering the specific objects of a given study. Examples include, parallel study or cross-over study
+
+**Study documents**
+
+Coming up with Data analysis plan or Statistical analysis plan (SAP)
+
+Highlight key methods that will be used in the study for example survival analysis.
+
+Describe how missing data will be handled - should they be dropped or should imputation be done - specify imputation methods and describe them in detail.
+
+Emphasize on both the primary and secondary objectives of the study and how these will be assessed or measured.
+
+
+**Data analysis and interpretation**
+
+Do a deeper analysis of the data to discover patterns and uncover hidden information. Example analysis would be meta-analysis, PK modeling etc
+
+Give insight based on the statistical outputs - tables, listings and figures. Are they answering the research objectives?
+
+**Advisory roles**
+
+Advisory role to other teams within a project. Offer statistical advise on how complex methodologies proposed in the SAP should be implemented.
+
+**Communication**
+
+Effectively communicating the research findings to all stakeholders involved, e.g the client, team members, regulatory authorities like FDA, among other interested parties.
+
+## Tools, techniques and applications
+
+'Do you see a man skilled in his work, he will serve before Kings...' Prov 22:29
+
+- We need to be skilled in various tools and technologies in order to succeed in this field. Tools like SAS, R, Python, and visualization tools like Tableau are among the required tools needed to carryout our daily activities.
+
+- Developing a deeper understanding of these tools will enable you to automate most of the data analysis steps and enable you deliver quality results and in good time.
+
+- We also need to be skilled in statistical analysis methods like survival analysis, design of experiments, ANOVA, regression techniques etc
+
+- Visualizations skills are also necessary. This is both science and art. We need to know how to visualize the kind of data we have at hand.
+
+**Applications to various domains**
+
+- Enhanced productivity
+
+- Process automation
+
+## The Future of Analytics in Research Innovation.
+
+- How to use AI to make our work faster.  AI can help in quick prototyping as we humans do a validation check to assess the business logic and other higher level requirements.
+
+- Use of multiple programming languages, thanks to LLMs which can translate one programming language to the other quickly.
+
+- Adoption of open source languages like R and Python.
+
+
+
