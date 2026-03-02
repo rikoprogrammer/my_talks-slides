@@ -53,7 +53,7 @@ Epidemiological studies can also be used but they are not very common, because t
 
 ## The process of conducting a clinical trial - overview
 
-Data collection process -  eCRF design, collect raw data, standardize data by reorganizing it per topic of interest eg adverse events (SDTM domains).
+Data collection process -  eCRF (electronic case report forms) design, collect raw data, standardize data by reorganizing it per topic of interest eg adverse events (SDTM domains).
 
 Creation of analysis ready data sets incorporating complex logic and derivations (ADAM domains).
 
