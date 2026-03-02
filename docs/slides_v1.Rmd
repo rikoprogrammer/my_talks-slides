@@ -23,11 +23,11 @@ knitr::opts_chunk$set(echo = FALSE)
 
 **Definition of key terms**
 
-- Data analytics - The science of analyzing raw data to make conclusions about that information. Many of the techniques and processes of data analytics have been automated into efficient processes and algorithms that work over raw data for human consumption.
+- Data analytics - The science of analyzing raw data to make informed decisions. Many of the techniques and processes of data analytics have been automated into efficient processes and algorithms that can work with raw data in order to extract meaningful information from massive amounts of data.
 
 - Clinical research/clinical trials - is the science of conducting experiments with the main objective of evaluating safety and efficacy of drug compounds in humans.
 
-Daniel Chap 1 : 12 - 15
+Early forms of evaluation of the effect of food on body strength and health in general were done during Biblical times as well during the reign of King Nebuchadnezzar. (Daniel Chap 1 : 12 - 15).
 
 ## A brief introduction to clinical trials/research
 
